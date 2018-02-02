@@ -1,0 +1,4 @@
+watchdog
+awscli
+boto
+boto3
